@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'package:flappy_bird_flutter/screen/home_page.dart';
+
 void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
@@ -8,11 +10,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home: Scaffold(
-        backgroundColor: Colors.lightBlue,
-        body: Center(
-        ),
-      ),
+      debugShowCheckedModeBanner: false,
+      title: 'Material App',
+      home: HomePage()
     );
   }
 }
