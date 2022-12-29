@@ -1,6 +1,15 @@
-# flappy_bird_flutter
+# Flappy Bird with Flutter
 
-A new Flutter project.
+# What is it about
+
+It's a simple game I made with flutter-dart, this implies that with flutter-dart you can do anything
+
+<img width="346" alt="flappyBird" src="https://user-images.githubusercontent.com/70453255/209965741-cdc95c2c-2793-4879-954b-02e260c6712b.png">
+
+It is a copy of the famous flappy bird game that has to jump to avoid letting the bird kill
+
+# Languages and programs
+- Dart-flutter
 
 ## Getting Started
 
